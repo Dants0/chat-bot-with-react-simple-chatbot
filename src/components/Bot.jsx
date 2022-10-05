@@ -159,8 +159,8 @@ class Bot extends Component {
                         headerTitle="Bip Bop 👾"
                         placeholder="Digite sua mensagem"
                         speechSynthesis={{ enable: true, lang: 'en' }}
-                        botAvatar="../src/img/agent.svg"
-                        userAvatar="../src/img/user.svg"
+                        botAvatar="https://www.svgrepo.com/show/84318/call-center-agent.svg"
+                        userAvatar="https://www.svgrepo.com/show/20624/businessman.svg"
                     />
                     </div>
                 </div>
